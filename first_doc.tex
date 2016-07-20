@@ -1,19 +1,46 @@
+% Define informations here
 \documentclass{article}
-
 \title{My first LaTeX document}
 \date{2016-07-19}
 \author{Theo Massard}
 
+% Begin writing the document
 \begin{document}
+
+% Disables pagenumbering
 \pagenumbering{gobble}
 \maketitle
 \newpage
+
+% Enables pagenumbering (enabled by default)
 \pagenumbering{arabic}
+
+% Creates a section as 1.{content}
 \section{First section: Hello World !}
 Hello World !
+
+% Creates a subsection as 1.1.{content}
 \subsection{Basic Hello world}
 Hello
 \label{subsec:label}
 
 
+% table of content management
+
+% Defines a table
+\newpage
+\begin{table}
+  \caption{First table}
+\end{table}
+
+
+\newpage
+\begin{appendix}
+  \listoftables
+\end{appendix}
+
+% Automatically creates the tables of content
+% Takes every section and subsection and subsubsection
+\newpage
+\tableofcontents
 \end{document}
