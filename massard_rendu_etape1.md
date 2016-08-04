@@ -23,5 +23,33 @@ Sous-sitre: Reezocar
 
 ### Ma Mission
 	1. Missions principales:
-	   * 
+	   * Optimisation du moteur des spiders
+	   * Big Data / Machine learning
+	   * Developpement back-end
+	       + Creation d'une usine de build
+		   + Virtualisation des environnements:
+			   - Scalabilite
+			   - Surete (Tests effectues avant MEP, Test auto, environnements propres)
+			   - Rapidite (Plus besoin de se prendre la tete, si ca passe les tests c'est bon)
+			   - Centralisation du travail des dev (log hardware, software)
+			   - Docker (Technologie qui monte, ancien d'Epitech)
+		   + Gestion des fichiers d'info (logs)
+	2. Missions secondaires:
+	   * Developpement de TU, TF
+	   * Ajout de sources (Scrapping, plusieurs centaines de milliers d'annonces par site parfois)
+
+### Repartition de l'emploi du temps
+	1. Hebdomadaire:
+	   * Lundi et Vendredi jours 'calmes':
+		   + Dedies au TU et TF
+		   + Dedies a la recherche (veille technologique)
+		   + Reunion du lundi (agilite)
+		   + Esprit startup, petit dejeuner le vendredi matin, debrief de la semaine
+	   * Mardi, Mercredi, Jeudi:
+		   + "rush" dedie au gros projets
+		   + Permet de garder une continuite dans le travail en preservant les jours les plus productifs pour gros projets
+	2. Reste du temps
+	   * Points bi-mensuels avec Vincent
+	   * Roadmap sur 2 mois
+	   
 
