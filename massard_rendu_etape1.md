@@ -91,4 +91,22 @@ Sous-sitre: Reezocar
 	   * Etre smart
 		   + Trouver des solutions simples, et efficaces
 		   + Gagner du temps
+	   * Agilite
+		   + Startup
+		   + Developpement iteratif
+		   + Revision frequente de l'architecture
+	2. Relationnelles:
+	   * Competence oratoire
+		   + Presentations
+		   + Savoir tenir des reunions
+		   + Proofs Of Concept
+	   * Savoir s'integrer facilement dans l'entreprise
+		   + Beaucoup de stagiaires
+		   + Rencontres/Departs frequents
+	   * S'adapter a l'esprit startup
+		   + Sorties frequentes
+		   + Vie en communaute dans un espace delimite (Enorme colocation)
+		   + Casual Friday
+		   + Rapport hierarchiques assez effaces
+	3. Personnelles:
 	   * 
