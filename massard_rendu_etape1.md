@@ -10,6 +10,7 @@ Sous-sitre: Reezocar
 %%%	   * Vincent Deboeuf, diplome d'Epitech, est responsable du departement IT dont je fais partie.
 	   * Lors de l'achat de vehicule, differentes problematiques font face aux utilisateurs, ces derniers ne peuvant donc pas acceder aux offres qui pourraient leur convenir le mieux. Parmis elle, nous pouvons compter l'absence de temps, de moyens, ou encore, la limitation geographique. A ces trois points se trouvent trois solutions chez Reezocar, respectivement, des conseillers qui ont pour role de trouver la voiture qui correspond aux envies du clients, qui s'occupent de negocier, si possible, le prix du vehicule avec le revendeur, et la mise en place de services tel que le rapatriement du vehicule, afin que le client n'ait pas a se cantonner a une recherche de vehicule uniquement dans les environs proches d'un lieu de travail, ou d'un domicile. D'autres services sont proposes, comme l'expertise du vehicule, ou encore sa garantie, afin d'accompagner au mieux le client dans son achat.
 
+	   * SE DIFFERENCIE PARCE QUE PAS DE STOCK ET VENTE DE SERVICE
 
 	2. Methodes d'action:
 	   * Afin de reponse a la problematique geographique, a savoir, l'impossibilite de chercher a travers toute l'Europe la perle rare que le client recherche tant, l'entreprise a decide de mettre en place un travail de "web-scrapping", c'est a dire, le parcour de sites au moyen de robots, afin de recenser et regrouper les annonces. Par consequent, le site de Reezocar sert en partie de moteur de recherches d'annonces de voiture d'occasion, regroupant des sites en Europe, par exemple en Allemagne, en Italie ou encore en Espagne. Cela permet au client de trouver, aujourd'hui, une collection de 7 millions d'annonces, mises a jours quotidiennement, lui permettant de centraliser sa recherche et, simultanement, de l'etendre au continent.
@@ -51,5 +52,43 @@ Sous-sitre: Reezocar
 	2. Reste du temps
 	   * Points bi-mensuels avec Vincent
 	   * Roadmap sur 2 mois
-	   
+	   FILL
+   
 
+### Stack technique
+	1. Python:
+	   * Facile a deployer
+	   * a apprehender
+	   * a developper
+	   * performant
+	   * versatile
+	   * Presence d'outils complets et open-source (scrapy)
+	2. Elasticsearch:
+	   * Outil d'indexation
+	   * Rapide
+	   * Scalable (cluster)
+	   * Open-source
+	3. Redis:
+	   * Extremement performant (RAM)
+	   * systeme de queue
+	4. Azure:
+	   * Facilite de deploiement
+	   * Flexibilite
+	   * Scalabilite
+	5. Docker:
+	   * voir au dessus
+	6. MySQL:
+	   * Standard
+	   * Efficace
+	   * Facile a deployer
+
+### Competences
+	1. Techniques:
+	   * Etre ouvert aux differentes technologies
+		   + Startup
+		   + Changement d'architecture possible
+		   + Choix des technologies efficaces et en vogue
+	   * Etre smart
+		   + Trouver des solutions simples, et efficaces
+		   + Gagner du temps
+	   * 
