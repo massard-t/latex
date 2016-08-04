@@ -7,6 +7,7 @@ Sous-sitre: Reezocar
    1. Historiquement:
        * Creee en DATE_CREATE par FONDATEURS, Reezocar est une startup francaise. Etablie depuis quelques mois a Boulogne, l'entreprise a pour but de faciliter l'achat de voiture d'occasions a travers l'Europe, en se placant du cote des particuliers, et en accompagnant ceux-ci dans leur demarche.
 	   * L'equipe, composee actuellement d'une vingtaine d'internes, et d'une douzaine de stagiaires, est en constante expansion depuis la fin d'annee derniere. L'entreprise a, en quelques mois, double ses effectifs, et continue de recruter. L'entreprise est decoupee en cinq departements: le departement IT, le departement des Aides De Vente, le departement Communication, le departement de la Comptabilite, et le departement des Sales.
+	   * Deux open space (SALES, IT)
 %%%	   * Vincent Deboeuf, diplome d'Epitech, est responsable du departement IT dont je fais partie.
 	   * Lors de l'achat de vehicule, differentes problematiques font face aux utilisateurs, ces derniers ne peuvant donc pas acceder aux offres qui pourraient leur convenir le mieux. Parmis elle, nous pouvons compter l'absence de temps, de moyens, ou encore, la limitation geographique. A ces trois points se trouvent trois solutions chez Reezocar, respectivement, des conseillers qui ont pour role de trouver la voiture qui correspond aux envies du clients, qui s'occupent de negocier, si possible, le prix du vehicule avec le revendeur, et la mise en place de services tel que le rapatriement du vehicule, afin que le client n'ait pas a se cantonner a une recherche de vehicule uniquement dans les environs proches d'un lieu de travail, ou d'un domicile. D'autres services sont proposes, comme l'expertise du vehicule, ou encore sa garantie, afin d'accompagner au mieux le client dans son achat.
 
@@ -23,6 +24,8 @@ Sous-sitre: Reezocar
 
 
 ### Ma Mission
+	Poste de Developpeur Back-End (Breve description)
+	> Totalement autonome
 	1. Missions principales:
 	   * Optimisation du moteur des spiders
 	   * Big Data / Machine learning
@@ -51,7 +54,7 @@ Sous-sitre: Reezocar
 		   + Permet de garder une continuite dans le travail en preservant les jours les plus productifs pour gros projets
 	2. Reste du temps
 	   * Points bi-mensuels avec Vincent
-	   * Roadmap sur 2 mois
+	   * Roadmap sur 2 mois (visibilite)
 	   FILL
    
 
@@ -109,4 +112,5 @@ Sous-sitre: Reezocar
 		   + Casual Friday
 		   + Rapport hierarchiques assez effaces
 	3. Personnelles:
-	   * 
+	   * Sociabilite
+	   * Bonne humeur
