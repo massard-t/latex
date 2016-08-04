@@ -18,6 +18,7 @@ Sous-sitre: Reezocar
    FILL
 
 ### Presentation du service IT
+	Compose de 5 membres
 	1. Global:
 	   * Le service IT comporte actuellement trois internes. Stanley Cassan et Julia Demichelle, qui s'occupent respectivement du site de Reezocar, et de Reezoservice, le CRM, pour Customer Relationship Client, developpe en interne afin de mieux repondre aux problematiques des employes, constituent la partie `Front` du service. Alexandre Mai, Benjamin Haoui, et moi-meme, constituons la partie `Back`. Cette partie du service s'occupe, entre autre, mais pas uniquement, de gerer le travail de `web-scrapping`, en optimisant les robots afin d'obtenir des resultats plus rapidement et plus precisement, mais aussi mettant en place un travail de post-traitement des annonces, en les corrigeant ou encore en obtenant des informations supplementaires.
 	FILL
